@@ -1,0 +1,3 @@
+﻿  MatematikasTesti.cpp
+C:\Users\User\Documents\Programming\School\C++\Projekts\MatematikasTesti\MatematikasTesti.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MatematikasTesti.vcxproj -> C:\Users\User\Documents\Programming\School\C++\Projekts\MatematikasTesti\x64\Debug\MatematikasTesti.exe
